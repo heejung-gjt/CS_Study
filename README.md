@@ -1,4 +1,4 @@
-# CS_Study
+# Computer Science
 
 ## 네트워크
 - 쿠키, 세션, 캐시
